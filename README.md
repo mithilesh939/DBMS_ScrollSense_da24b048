@@ -4,7 +4,7 @@ What this is
 
 This is the database project for ScrollSense, built as SQLite. It includes the schema, a data generator, views, transactions, and thirteen queries, all tested against a real populated database rather than just written and assumed correct.
 
-Roll number used as seed: da24b048
+Roll number : da24b048
 
 How to run this from a completely empty database
 
